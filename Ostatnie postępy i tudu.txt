@@ -1,0 +1,9 @@
+- Operacje na Manufacturers (oprócz Details), Product i Service gotowe
+TUDU:Manufacturers.details ma wypluć elementy Product filtrowane nazwą producenta - dodać do details.cshtml i 
+sprawdzić czy działa
+GŁÓWNE: Dodawanie i usuwanie z koszyka + submit przekierowujący na stronę, mającą zapisany nr konta
+
+Role Manager - Usuwanie roli (bazując na szkieletowym widoku delete)
+User Roles - filtrowanie, sortowanie, paging
+Polityka prywatności
+Strona główna

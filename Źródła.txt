@@ -1,0 +1,6 @@
+Role:
+https://codewithmukesh.com/blog/user-management-in-aspnet-core-mvc/
+http://johnatten.com/2014/02/13/asp-net-mvc-5-identity-extending-and-modifying-roles/
+https://www.dotnetcurry.com/aspnet-core/role-based-security
+https://www.facebook.com/codewithmukesh
+https://www.webtrainingroom.com/aspnetcore/file-upload
